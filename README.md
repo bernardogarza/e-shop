@@ -7,7 +7,7 @@ I built this project using React, Redux, Firebase and GraphQL. It's a simple e-s
 
 ## Live Demo
 
-> PENDING
+> https://bg-store.herokuapp.com
 
 ## Screenshot
 
