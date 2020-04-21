@@ -11,7 +11,7 @@ I built this project using React, Redux, Firebase and GraphQL. It's a simple e-s
 
 ## Screenshot
 
-> PENDING
+![BG Store](BG-Store.png?raw=true "BG Store")
 
 #
 
