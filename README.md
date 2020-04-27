@@ -1,5 +1,5 @@
 # e-shop
-I built this project using React, Redux, Firebase and GraphQL. It's a simple e-shop page with a sign-in and sign-up forms, a cart and a checkout, for the checkout we're going to use the test card information that the API provides since this is a project built for educational purposes
+I built this project using React, Redux, Firebase and GraphQL. It's a simple e-shop page with a sign-in and sign-up forms, a cart and a checkout, for the checkout we're going to use the test card information that the API provides since this is a project built for educational purposes.
 
 ## Author
 
