@@ -3,7 +3,7 @@ I built this project using React, Redux, Firebase and GraphQL. It's a simple e-s
 
 ## Author
 
-**[Bernardo Garza Landa](https://bernardogarza.me/)** - bernardo.g.landa@gmail.com
+**[Bernardo Garza Landa](https://bernardogarza.me/)** - bernardo.g.landa@gmail.com - [Portfolio](https://bernardogarza.me) - [LinkedIn](https://www.linkedin.com/in/bernardo-g-landa/)
 
 ## Live Demo
 
